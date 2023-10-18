@@ -1,1 +1,1 @@
-# Nodejs-project
+# Nodejs-Slot machine project
